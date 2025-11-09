@@ -8,5 +8,5 @@
 
 -[Результаты прогонов автотестов](https://github.com/ngavrilenko/api/commit/752b8fd5e10ba7ab6bc021dc2d5c62d50c618989)
 
--[Коллекция для тестирования SOAP-сервиса](https://www.postman.com/natigs/workspace/my-workspace/collection/40837345-ed48cbdd-e3ea-4f9f-bf45-3a0c219decf5?action=share&creator=40837345&active-environment=40837345-c0028eae-6344-4158-af28-87be431e210c) и [файл с коллекцией в формате JSON](https://github.com/ngavrilenko/api-testing/tree/e1d15dca9e38942f12edb10a8ca65b06691166d0)
+-[Коллекция для тестирования SOAP-сервиса](https://www.postman.com/natigs/workspace/my-workspace/collection/40837345-ed48cbdd-e3ea-4f9f-bf45-3a0c219decf5?action=share&creator=40837345&active-environment=40837345-c0028eae-6344-4158-af28-87be431e210c) и [файл с коллекцией в формате JSON](https://github.com/ngavrilenko/api-testing/blob/77f91e2d5e19d729e4321fdfe5246459f110b974/Country%20information.postman_collection.json))
 

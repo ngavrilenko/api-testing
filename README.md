@@ -2,7 +2,7 @@
 
 Посредством инструмента Postman было проведено тестирование REST API веб-приложения  ["Интернет-магазин"](https://qa.demoshopping.ru/), на основании документации [SWAGGER](https://qa.demoshopping.ru/api-docs/):
 
--[Коллекция в Postman](https://www.postman.com/natigs/workspace/my-workspace/collection/40837345-ac1ad2b6-b74b-4305-9b18-ab466475ba69?action=share&creator=40837345&active-environment=40837345-c0028eae-6344-4158-af28-87be431e210c) и [файл с коллекцией в формате JSON](https://github.com/ngavrilenko/api-testing/tree/61d0a7221147de39f2e55e70e4bd154b3c549706)
+-[Коллекция в Postman](https://www.postman.com/natigs/workspace/my-workspace/collection/40837345-ac1ad2b6-b74b-4305-9b18-ab466475ba69?action=share&creator=40837345&active-environment=40837345-c0028eae-6344-4158-af28-87be431e210c) и [файл с коллекцией в формате JSON](https://github.com/ngavrilenko/api-testing/blob/0bc346b1475b8d7dda7b93ef6d72b58fb23f33de/DemoShopping.postman_collection.json)
 
 -[Тест-кейсы для GET, POST, PUT, PATCH, DELETE запросов](https://github.com/ngavrilenko/api/commit/f674ce5c18feffdb5a79b9f9273b6d4cb02995b8)
 
